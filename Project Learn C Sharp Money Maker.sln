@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Learn C Sharp Money Maker", "Project Learn C Sharp Money Maker\Project Learn C Sharp Money Maker.csproj", "{5A946996-B9F8-47C4-BD79-651186E81718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A946996-B9F8-47C4-BD79-651186E81718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A946996-B9F8-47C4-BD79-651186E81718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A946996-B9F8-47C4-BD79-651186E81718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A946996-B9F8-47C4-BD79-651186E81718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C7B0AF3-E575-49C2-87FC-04A81BFF534C}
+	EndGlobalSection
+EndGlobal
